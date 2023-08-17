@@ -1,0 +1,83 @@
+header{
+    max-width: 1600px;
+}
+
+.upper-section{
+   
+    background-image: url("images/banner/banner1.png");
+    background-repeat: no-repeat;
+    
+}
+.heading-line{
+    color: #151414;
+    text-align: right;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 116px;
+    padding-right: 230px;
+    padding-bottom: 0px;
+    padding-left: 845px;
+}
+.heading-description{
+    text-align: right;
+    padding-top: 24px;
+    padding-right: 230px;
+    padding-bottom: 32px;
+    padding-left: 876px;
+    color: #444343;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+}
+.btn{
+    text-align: right;
+    padding-right: 230px;
+    padding-bottom: 100px;
+}
+.btn-primary{
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    border-style: none;
+    width: 160px;
+    height: 64px;
+}
+/* main section */
+section{
+    max-width: 1600px;
+    
+}
+.my-failures{
+    border: 1px solid #F15B22;
+    padding-top: 80px;
+    display: flex;
+    
+}
+.failure-img{
+    width: 50%;
+}
+.failure-text{
+    
+    width: 400px;
+    align-items: center;
+}
+img{
+    width: 500px;
+    height: 600px;
+    
+}
+
+.box{
+    padding-top: 150px;
+}
+li{
+    padding-bottom: 5px;
+    
+}
+.failure-title{
+    
+
+}
+.failure-description{
+
+}
